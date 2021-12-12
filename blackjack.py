@@ -1,3 +1,5 @@
+# simple blackjack beginner style blackjack program in python. 
+
 import random
 import os
 import sys
